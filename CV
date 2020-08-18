@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Curriculo Vitae</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>  Menu  </h1>
+    <p><a href="#"> Dados pessoais      </a>  </p>
+    <p><a href="#"> Objetivo           </a>  </p>
+    <p><a href="#"> Formação acadêmica </a>  </p>
+    <p><a href="#"> Experiência profissional </a>  </p>
+    <p><a href="#"> Atividades complementares</a>  </p>
+    <p><a href="#"> Idioma</a>  </p>
+    <h1>  Dados pessoais  </h1>
+    <HR> 
+<t> <i>Nome: Leandro Sampaio Pereira</i> </t> <br>
+
+<p><i>E-mail: <a class="email" href="mailto:Leandro.sampaio.017@outlook.com">Leandro.sampaio.017@outlook.com</a></i></p>
+
+<t>  GitHub: <a href="https://github.com/LeleSp6" target="_blank"><i>Lelesp6 </a> </t>
+    
+    <h1>  Objetivo  </h1>  
+    <hr size=”50px″ />
+    <p> Frases para objetivo de currículo podem definir a escolha do recrutador, que visa</p>
+    <h1>  Formação acadêmica  </h1> 
+    <hr> 
+      
+        <li> Escola 1 </li>        
+        <li> MBA</li>
+      
+            <h1>  Experiência profissional  </h1> 
+            <hr>
+            <li> Experiência 1 </li>        
+            <li> Experiência 2 </li>
+            <li> Experiência 3 </li>
+            <h1>  Atividades complementares  </h1> 
+            <li> Curso 1 </li>        
+            <li> Curso 2 </li>
+            
+            <h1>Idioma </h1> 
+            <hr>
+            <li> Ingles  </li>  
+            <ul> Escreve bem </ul>
+            <ul> le bem </ul>
+            <ul> Compreende bem </ul>
+            <ul>Fala regular </ul>
+
+           
+            <li> Klingom  </li>  
+            <ul> Escreve pouco</ul>
+            <ul> le bem </ul>
+            <ul> Compreende bem </ul>
+            <ul>  fala bem  </ul>
+
+
+  </body>
+</html>
